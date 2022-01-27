@@ -1,5 +1,4 @@
-# Source Code Archive
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://github.com/arsity/Archive/blob/master/LICENSE) <br><br>
+# Source Code Archive  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://github.com/arsity/Archive/blob/master/LICENSE)
 
 This archive includes CSC 1001, Introduction to Computer Science: Programming Methodology, and CSC 1002, Computational Laboratory, using Python as the major language. For more information, you can go to https://docs.python.org/3/. <br><br>
 
