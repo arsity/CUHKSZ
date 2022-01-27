@@ -1,0 +1,13 @@
+In Problem 2, the destruction problem may make your program crash. If you encounter this issue, you have the following 2 choices.
+
+(1) Directly comment out the destructor function and don't use it in your program. It is an easy way but a few points (at most 0.5 points) will be deducted from your grade.
+
+(2) Alternatively, the destructor function is encouraged to implement, which is a bit challenging but very interesting.
+
+If you meet difficulties in problem 2, there are some tips for you to check your code: 
+
+(3). Pay attention to the difference between "return by value" and "return by reference".
+
+(4). Pay attention to the difference between "shallow copy" and "deep copy".
+
+(5). Pay attention to the function of "operator=" where the default operation is a shallow copy.

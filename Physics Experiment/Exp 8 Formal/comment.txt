@@ -1,0 +1,10 @@
+# Run 1 2 are invalid
+
+others are following the order.
+
+
+
+disk mass 121.88g
+radius 9.50cm
+
+radius pulley 5cm
