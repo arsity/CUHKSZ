@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Assignment_2" targetName="Assignment_2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-WSL_gcc" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="WSL_gcc" GENERATION_OPTIONS="-G Ninja" />
+      <configuration PROFILE_NAME="Debug-Clang" ENABLED="false" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Clang" />
+      <configuration PROFILE_NAME="Debug-MinGW" ENABLED="false" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MinGW" />
+      <configuration PROFILE_NAME="Debug-Visual Studio" ENABLED="false" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38923a0a-315e-41ed-93c5-c835955cc088" name="Changes" comment="reformat the code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataSegment.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataSegment.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataSegment.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataSegment.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Execution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execution.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Execution.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execution.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ICommand.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ICommand.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ICommand.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ICommand.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JCommand.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCommand.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JCommand.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCommand.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RCommand.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/RCommand.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RCommand.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/RCommand.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextSegment.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextSegment.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextSegment.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextSegment.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tester.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/tester.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tester.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/tester.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-WSL_gcc" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tests/lwlr_swlr_2/lwlr_swlr.asm" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Execution.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ICommand.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/tester.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/RCommand.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/tester.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:////wsl$/Ubuntu/usr/include/c++/11/bits/basic_string.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/DataSegment.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/tests/lwlr_swlr_2/lwlr_swlr_correct.out" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectId" id="26JjbkblGEzQADdM2EdaZBk3S1P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/tests/fib/memory_0.bin" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Assignment_2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="lwlr_swlr.asm lwlr_swlr.txt lwlr_swlr_checkpts.txt lwlr_swlr.in lwlr_swlr.out" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://../tests/lwlr_swlr_2" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Assignment_2" TARGET_NAME="Assignment_2" CONFIG_NAME="Debug-WSL_gcc" RUN_TARGET_PROJECT_NAME="Assignment_2" RUN_TARGET_NAME="Assignment_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38923a0a-315e-41ed-93c5-c835955cc088" name="Changes" comment="" />
+      <created>1647148657124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647148657124</updated>
+      <workItem from="1647148658283" duration="123000" />
+      <workItem from="1647148794837" duration="1000" />
+      <workItem from="1647149085220" duration="15000" />
+      <workItem from="1647149117145" duration="6783000" />
+      <workItem from="1647156022805" duration="12261000" />
+      <workItem from="1647171885030" duration="6542000" />
+      <workItem from="1647230698925" duration="3497000" />
+      <workItem from="1647236070385" duration="10590000" />
+      <workItem from="1647248171211" duration="3775000" />
+      <workItem from="1647264277621" duration="5060000" />
+      <workItem from="1647311629016" duration="10243000" />
+      <workItem from="1647327178070" duration="28565000" />
+      <workItem from="1647406851262" duration="8992000" />
+      <workItem from="1647416924500" duration="65000" />
+      <workItem from="1647417003586" duration="1603000" />
+      <workItem from="1647421914583" duration="14551000" />
+      <workItem from="1647448063288" duration="27000" />
+      <workItem from="1647493735723" duration="9856000" />
+      <workItem from="1647520292846" duration="2261000" />
+      <workItem from="1647529457044" duration="1836000" />
+      <workItem from="1647532186188" duration="594000" />
+      <workItem from="1647604112917" duration="12000" />
+      <workItem from="1647606349398" duration="3294000" />
+      <workItem from="1647609738350" duration="3146000" />
+      <workItem from="1647614762757" duration="540000" />
+      <workItem from="1647615319092" duration="6029000" />
+      <workItem from="1647658171206" duration="6423000" />
+      <workItem from="1647665942306" duration="17000" />
+      <workItem from="1647668106711" duration="4037000" />
+      <workItem from="1647672260262" duration="4303000" />
+    </task>
+    <task id="LOCAL-00001" summary="implement syscall except sbrk">
+      <created>1647160678185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647160678185</updated>
+    </task>
+    <task id="LOCAL-00002" summary="implement all R type command except sbrk in syscall">
+      <created>1647177177732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647177177732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="developing I Command">
+      <created>1647179912822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647179912822</updated>
+    </task>
+    <task id="LOCAL-00004" summary="developing .data part">
+      <created>1647251504307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647251504307</updated>
+    </task>
+    <task id="LOCAL-00005" summary="implement static data segment">
+      <created>1647267718588</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647267718588</updated>
+    </task>
+    <task id="LOCAL-00006" summary="implement text segment">
+      <created>1647268753619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647268753619</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change to LF">
+      <created>1647328162525</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647328162525</updated>
+    </task>
+    <task id="LOCAL-00008" summary="more testcases">
+      <created>1647330342775</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647330342775</updated>
+    </task>
+    <task id="LOCAL-00009" summary="bug fixes">
+      <created>1647352207064</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647352207064</updated>
+    </task>
+    <task id="LOCAL-00010" summary="bug fixes">
+      <created>1647352228099</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1647352228099</updated>
+    </task>
+    <task id="LOCAL-00011" summary="bug fixes">
+      <created>1647360473463</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1647360473463</updated>
+    </task>
+    <task id="LOCAL-00012" summary="bug fixes">
+      <created>1647417735713</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1647417735713</updated>
+    </task>
+    <task id="LOCAL-00013" summary="bug fixes">
+      <created>1647417773591</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1647417773591</updated>
+    </task>
+    <task id="LOCAL-00014" summary="bug fixes">
+      <created>1647438666281</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1647438666281</updated>
+    </task>
+    <task id="LOCAL-00015" summary="bug fixes">
+      <created>1647448072569</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1647448072569</updated>
+    </task>
+    <task id="LOCAL-00016" summary="bug fixes">
+      <created>1647496848804</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1647496848804</updated>
+    </task>
+    <task id="LOCAL-00017" summary="bug fixes">
+      <created>1647496929664</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1647496929664</updated>
+    </task>
+    <task id="LOCAL-00018" summary="bug fixes">
+      <created>1647500745728</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1647500745728</updated>
+    </task>
+    <task id="LOCAL-00019" summary="bug fixes">
+      <created>1647501100112</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1647501100112</updated>
+    </task>
+    <task id="LOCAL-00020" summary="bug fixes">
+      <created>1647504260914</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1647504260914</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Writing README.md">
+      <created>1647531629818</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1647531629818</updated>
+    </task>
+    <task id="LOCAL-00022" summary="more test cases">
+      <created>1647607697127</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1647607697127</updated>
+    </task>
+    <task id="LOCAL-00023" summary="test">
+      <created>1647614821412</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1647614821412</updated>
+    </task>
+    <task id="LOCAL-00024" summary="test">
+      <created>1647614865167</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1647614865167</updated>
+    </task>
+    <task id="LOCAL-00025" summary="bug fixed">
+      <created>1647617136778</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1647617136778</updated>
+    </task>
+    <task id="LOCAL-00026" summary="bug fixed">
+      <created>1647621872136</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1647621872136</updated>
+    </task>
+    <task id="LOCAL-00027" summary="bug fixed">
+      <created>1647622015875</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1647622015875</updated>
+    </task>
+    <task id="LOCAL-00028" summary="bug fixes">
+      <created>1647658355712</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1647658355712</updated>
+    </task>
+    <task id="LOCAL-00029" summary="bug fixes">
+      <created>1647665053861</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1647665053861</updated>
+    </task>
+    <task id="LOCAL-00030" summary="change to LF">
+      <created>1647668943351</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1647668943351</updated>
+    </task>
+    <task id="LOCAL-00031" summary="bug fixes">
+      <created>1647673694719</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1647673694719</updated>
+    </task>
+    <task id="LOCAL-00032" summary="reformat the code">
+      <created>1647673982055</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1647673982055</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="GitHub/HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implement syscall except sbrk" />
+    <MESSAGE value="implement all R type command except sbrk in syscall" />
+    <MESSAGE value="developing I Command" />
+    <MESSAGE value="developing .data part" />
+    <MESSAGE value="implement static data segment" />
+    <MESSAGE value="implement text segment" />
+    <MESSAGE value="more testcases" />
+    <MESSAGE value="Writing README.md" />
+    <MESSAGE value="more test cases" />
+    <MESSAGE value="test" />
+    <MESSAGE value="bug fixed" />
+    <MESSAGE value="change to LF" />
+    <MESSAGE value="bug fixes" />
+    <MESSAGE value="reformat the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformat the code" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="reserveMemoryPtr" />
+        <watch expression="registers" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
