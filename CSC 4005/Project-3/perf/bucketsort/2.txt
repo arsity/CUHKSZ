@@ -1,0 +1,23 @@
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+   105,957,903,856      cpu-cycles:u                                                
+       167,489,372      cache-misses:u                                              
+           550,017      page-faults:u                                               
+
+      45.707260117 seconds time elapsed
+
+      37.421803000 seconds user
+       8.159551000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+   126,828,415,767      cpu-cycles:u                                                
+       215,217,130      cache-misses:u                                              
+            85,401      page-faults:u                                               
+
+      45.708779243 seconds time elapsed
+
+      44.298240000 seconds user
+       1.279148000 seconds sys

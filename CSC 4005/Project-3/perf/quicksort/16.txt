@@ -1,0 +1,206 @@
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,601,697,639      cpu-cycles:u                                                
+    75,599,072,149      cpu-cycles:u                                                
+        15,461,626      cache-misses:u                                              
+             4,617      page-faults:u                                               
+
+      39.117340177 seconds time elapsed
+
+        15,718,023      cache-misses:u                                              
+             4,247      page-faults:u                                               
+
+      39.260681630 seconds time elapsed
+
+      26.560130000 seconds user
+       1.068430000 seconds sys
+
+
+      26.551676000 seconds user
+       1.076473000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,624,246,741      cpu-cycles:u                                                
+        13,280,282      cache-misses:u                                              
+             4,445      page-faults:u                                               
+
+      38.794985043 seconds time elapsed
+
+      26.611369000 seconds user
+       1.013614000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,691,704,569      cpu-cycles:u                                                
+        15,366,820      cache-misses:u                                              
+             4,682      page-faults:u                                               
+
+      39.356984928 seconds time elapsed
+
+      26.605941000 seconds user
+       1.023574000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,655,240,566      cpu-cycles:u                                                
+        14,444,559      cache-misses:u                                              
+             4,728      page-faults:u                                               
+
+      39.156744716 seconds time elapsed
+
+      26.585782000 seconds user
+       1.040447000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,656,192,621      cpu-cycles:u                                                
+        14,601,470      cache-misses:u                                              
+    75,580,804,512      cpu-cycles:u                                                
+        14,748,213      cache-misses:u                                              
+             5,405      page-faults:u                                               
+
+      39.112970747 seconds time elapsed
+
+      26.637773000 seconds user
+       0.990648000 seconds sys
+
+
+    75,556,904,002      cpu-cycles:u                                                
+        15,285,291      cache-misses:u                                              
+             5,402      page-faults:u                                               
+
+      39.160833865 seconds time elapsed
+
+      26.503976000 seconds user
+       1.125366000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,303,318,544      cpu-cycles:u                                                
+        15,194,848      cache-misses:u                                              
+             4,795      page-faults:u                                               
+
+      38.792469978 seconds time elapsed
+
+      26.494892000 seconds user
+       1.126359000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,553,770,734      cpu-cycles:u                                                
+        15,313,762      cache-misses:u                                              
+             4,874      page-faults:u                                               
+
+      38.797790673 seconds time elapsed
+
+      26.563232000 seconds user
+       1.057540000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,556,348,742      cpu-cycles:u                                                
+        16,264,652      cache-misses:u                                              
+             4,875      page-faults:u                                               
+
+      39.113148566 seconds time elapsed
+
+      26.549426000 seconds user
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,577,392,758      cpu-cycles:u                                                
+        16,946,158      cache-misses:u                                              
+             4,871      page-faults:u                                               
+
+      39.137557360 seconds time elapsed
+
+      26.631755000 seconds user
+       0.995635000 seconds sys
+
+
+             5,410      page-faults:u                                               
+
+      38.807406207 seconds time elapsed
+
+      26.612596000 seconds user
+       1.010630000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,624,492,978      cpu-cycles:u                                                
+        13,627,251      cache-misses:u                                              
+             4,602      page-faults:u                                               
+
+      38.794301640 seconds time elapsed
+
+      26.522387000 seconds user
+       1.105307000 seconds sys
+
+
+       1.073469000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,645,657,332      cpu-cycles:u                                                
+        15,044,784      cache-misses:u                                              
+             5,405      page-faults:u                                               
+
+      38.804955963 seconds time elapsed
+
+      26.573632000 seconds user
+       1.052569000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    75,673,750,299      cpu-cycles:u                                                
+        13,368,652      cache-misses:u                                              
+             4,529      page-faults:u                                               
+
+      38.797543406 seconds time elapsed
+
+      26.588704000 seconds user
+       1.040522000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    78,374,315,911      cpu-cycles:u                                                
+       127,806,625      cache-misses:u                                              
+            17,021      page-faults:u                                               
+
+      38.794580958 seconds time elapsed
+
+      27.200326000 seconds user
+       0.425987000 seconds sys
+
+

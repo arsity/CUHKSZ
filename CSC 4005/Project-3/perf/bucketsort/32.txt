@@ -1,0 +1,413 @@
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,489,714,195      cpu-cycles:u                                                
+         9,424,644      cache-misses:u                                              
+            37,072      page-faults:u                                               
+
+      28.967493187 seconds time elapsed
+
+      27.679666000 seconds user
+       1.195178000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,442,337,763      cpu-cycles:u                                                
+         9,523,221      cache-misses:u                                              
+            33,975      page-faults:u                                               
+
+      28.972751395 seconds time elapsed
+
+      27.646228000 seconds user
+       1.230029000 seconds sys
+
+
+    78,457,557,592      cpu-cycles:u                                                
+         9,174,699      cache-misses:u                                              
+            37,134      page-faults:u                                               
+
+      28.970660282 seconds time elapsed
+
+      27.682767000 seconds user
+       1.193102000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,455,977,060      cpu-cycles:u                                                
+         9,447,305      cache-misses:u                                              
+            37,073      page-faults:u                                               
+
+      28.971351354 seconds time elapsed
+
+      27.726092000 seconds user
+       1.150265000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,497,200,688      cpu-cycles:u                                                
+         9,397,441      cache-misses:u                                              
+            37,252      page-faults:u                                               
+
+      29.027783672 seconds time elapsed
+
+      27.741282000 seconds user
+       1.135351000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,558,279,963      cpu-cycles:u                                                
+         9,748,180      cache-misses:u                                              
+            33,974      page-faults:u                                               
+
+      28.964058565 seconds time elapsed
+
+      27.716010000 seconds user
+       1.160321000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,532,134,157      cpu-cycles:u                                                
+         9,009,726      cache-misses:u                                              
+            37,140      page-faults:u                                               
+
+      28.992985757 seconds time elapsed
+
+      27.692815000 seconds user
+       1.182174000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,516,373,718      cpu-cycles:u                                                
+         8,391,965      cache-misses:u                                              
+            37,129      page-faults:u                                               
+
+      28.970677756 seconds time elapsed
+
+      27.673963000 seconds user
+       1.198097000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,494,274,513      cpu-cycles:u                                                
+         9,296,490      cache-misses:u                                              
+            37,649      page-faults:u                                               
+
+      28.988953104 seconds time elapsed
+
+      27.664386000 seconds user
+       1.212168000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,504,676,004      cpu-cycles:u                                                
+         9,406,156      cache-misses:u                                              
+            37,581      page-faults:u                                               
+
+      28.966138276 seconds time elapsed
+
+      27.724771000 seconds user
+       1.152289000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,533,684,385      cpu-cycles:u                                                
+         9,320,178      cache-misses:u                                              
+            37,628      page-faults:u                                               
+
+      28.967475353 seconds time elapsed
+
+      27.688099000 seconds user
+       1.189255000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,507,187,260      cpu-cycles:u                                                
+         9,025,204      cache-misses:u                                              
+            37,780      page-faults:u                                               
+
+      28.964868052 seconds time elapsed
+
+      27.668062000 seconds user
+       1.209205000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,495,221,098      cpu-cycles:u                                                
+         9,229,023      cache-misses:u                                              
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,526,325,017      cpu-cycles:u                                                
+         8,996,683      cache-misses:u                                              
+            37,633      page-faults:u                                               
+
+      28.982301527 seconds time elapsed
+
+      27.668292000 seconds user
+       1.208174000 seconds sys
+
+
+            37,598      page-faults:u                                               
+
+      29.002813363 seconds time elapsed
+
+      27.664499000 seconds user
+       1.212173000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,488,603,730      cpu-cycles:u                                                
+         8,696,785      cache-misses:u                                              
+            37,613      page-faults:u                                               
+
+      29.013472561 seconds time elapsed
+
+      27.722886000 seconds user
+       1.154247000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,541,584,357      cpu-cycles:u                                                
+         8,531,659      cache-misses:u                                              
+            37,760      page-faults:u                                               
+
+      28.980553069 seconds time elapsed
+
+      27.693259000 seconds user
+       1.183191000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,440,478,614      cpu-cycles:u                                                
+         8,419,435      cache-misses:u                                              
+            42,701      page-faults:u                                               
+
+      29.232022357 seconds time elapsed
+
+      27.670124000 seconds user
+       1.205043000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,511,970,442      cpu-cycles:u                                                
+         8,538,617      cache-misses:u                                              
+            39,598      page-faults:u                                               
+
+      29.470289526 seconds time elapsed
+
+      27.651018000 seconds user
+       1.229067000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,404,653,652      cpu-cycles:u                                                
+         8,573,046      cache-misses:u                                              
+            42,761      page-faults:u                                               
+
+      29.326717728 seconds time elapsed
+
+      27.722845000 seconds user
+       1.154079000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,050,450,380      cpu-cycles:u                                                
+         7,278,049      cache-misses:u                                              
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,432,132,794      cpu-cycles:u                                                
+         8,482,107      cache-misses:u                                              
+            42,789      page-faults:u                                               
+
+            42,740      page-faults:u                                               
+
+      33.206049656 seconds time elapsed
+
+      27.574195000 seconds user
+       1.303793000 seconds sys
+
+
+      29.333260330 seconds time elapsed
+
+      27.669453000 seconds user
+       1.205925000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,328,036,656      cpu-cycles:u                                                
+         8,536,142      cache-misses:u                                              
+            42,762      page-faults:u                                               
+
+      29.634942681 seconds time elapsed
+
+      27.621737000 seconds user
+       1.225970000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,488,179,072      cpu-cycles:u                                                
+         8,521,003      cache-misses:u                                              
+            42,620      page-faults:u                                               
+
+      29.361219409 seconds time elapsed
+
+      27.661191000 seconds user
+       1.220097000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,448,015,488      cpu-cycles:u                                                
+         8,551,011      cache-misses:u                                              
+            42,764      page-faults:u                                               
+
+      31.134659420 seconds time elapsed
+
+      27.711738000 seconds user
+       1.166211000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,459,424,529      cpu-cycles:u                                                
+         8,382,262      cache-misses:u                                              
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,471,142,578      cpu-cycles:u                                                
+         8,225,647      cache-misses:u                                              
+            42,691      page-faults:u                                               
+
+      29.137144945 seconds time elapsed
+
+      27.709839000 seconds user
+       1.171245000 seconds sys
+
+
+            42,702      page-faults:u                                               
+
+      29.297736498 seconds time elapsed
+
+      27.669909000 seconds user
+       1.211150000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,479,551,459      cpu-cycles:u                                                
+         8,623,892      cache-misses:u                                              
+            39,597      page-faults:u                                               
+
+      29.492155913 seconds time elapsed
+
+      27.648608000 seconds user
+       1.220070000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,370,435,708      cpu-cycles:u                                                
+         7,997,058      cache-misses:u                                              
+            42,743      page-faults:u                                               
+
+      29.669119648 seconds time elapsed
+
+      27.628118000 seconds user
+       1.221909000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,427,899,104      cpu-cycles:u                                                
+         7,962,614      cache-misses:u                                              
+            42,695      page-faults:u                                               
+
+      29.737780658 seconds time elapsed
+
+      27.623659000 seconds user
+       1.258024000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,459,723,910      cpu-cycles:u                                                
+         7,586,902      cache-misses:u                                              
+            42,686      page-faults:u                                               
+
+      29.184541259 seconds time elapsed
+
+      27.674415000 seconds user
+       1.206054000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    78,469,398,794      cpu-cycles:u                                                
+         7,376,059      cache-misses:u                                              
+            42,703      page-faults:u                                               
+
+      29.347045661 seconds time elapsed
+
+      27.664864000 seconds user
+       1.216092000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/bucketsort/bucketsort_mpi 100000000 1000000':
+
+    79,191,322,837      cpu-cycles:u                                                
+       124,576,082      cache-misses:u                                              
+           844,410      page-faults:u                                               
+
+      31.595532134 seconds time elapsed
+
+      27.564010000 seconds user
+       1.363587000 seconds sys

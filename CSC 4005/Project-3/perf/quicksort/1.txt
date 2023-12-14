@@ -1,0 +1,10 @@
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/quicksort/quicksort_mpi 100000000':
+
+    82,190,172,008      cpu-cycles:u                                                
+       162,971,268      cache-misses:u                                              
+         1,009,078      page-faults:u                                               
+
+      29.899374303 seconds time elapsed
+
+      28.453380000 seconds user
+       1.353687000 seconds sys

@@ -1,0 +1,206 @@
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       792,975,920      cpu-cycles:u                                                
+            25,492      cache-misses:u                                              
+             1,483      page-faults:u                                               
+
+       0.306033131 seconds time elapsed
+
+       0.280112000 seconds user
+       0.007974000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       791,039,101      cpu-cycles:u                                                
+            17,787      cache-misses:u                                              
+             1,995      page-faults:u                                               
+
+       0.305865029 seconds time elapsed
+
+       0.275302000 seconds user
+       0.012967000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       775,646,453      cpu-cycles:u                                                
+            18,630      cache-misses:u                                              
+             1,980      page-faults:u                                               
+
+       0.314009749 seconds time elapsed
+
+       0.274823000 seconds user
+       0.012991000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       777,169,074      cpu-cycles:u                                                
+            37,998      cache-misses:u                                              
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+             1,960      page-faults:u                                               
+
+       0.327213821 seconds time elapsed
+
+       0.275766000 seconds user
+       0.012988000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       761,179,959      cpu-cycles:u                                                
+            27,130      cache-misses:u                                              
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       760,525,174      cpu-cycles:u                                                
+            27,915      cache-misses:u                                              
+             2,002      page-faults:u                                               
+
+       0.318981457 seconds time elapsed
+
+       0.280799000 seconds user
+       0.006994000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       801,865,134      cpu-cycles:u                                                
+            29,324      cache-misses:u                                              
+             2,069      page-faults:u                                               
+
+       0.310966565 seconds time elapsed
+
+       0.277922000 seconds user
+       766,062,481      cpu-cycles:u                                                
+            25,350      cache-misses:u                                              
+             1,509      page-faults:u                                               
+
+       0.695624771 seconds time elapsed
+
+       0.276472000 seconds user
+       0.011977000 seconds sys
+
+
+             2,005      page-faults:u                                               
+
+       0.324648912 seconds time elapsed
+
+       0.276375000 seconds user
+       0.012016000 seconds sys
+
+
+       0.009997000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       766,475,255      cpu-cycles:u                                                
+            29,914      cache-misses:u                                              
+             1,463      page-faults:u                                               
+
+       0.698812670 seconds time elapsed
+
+       0.278526000 seconds user
+       0.009947000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       763,429,190      cpu-cycles:u                                                
+       765,543,636      cpu-cycles:u                                                
+            46,915      cache-misses:u                                              
+             1,978      page-faults:u                                               
+
+       0.782971818 seconds time elapsed
+
+       0.277959000 seconds user
+       0.011912000 seconds sys
+
+
+            24,769      cache-misses:u                                              
+             2,024      page-faults:u                                               
+
+       0.774491027 seconds time elapsed
+
+       0.275545000 seconds user
+       0.012931000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       763,872,957      cpu-cycles:u                                                
+            24,480      cache-misses:u                                              
+             1,970      page-faults:u                                               
+
+       0.679402518 seconds time elapsed
+
+       0.272697000 seconds user
+       0.015923000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       764,150,067      cpu-cycles:u                                                
+            23,287      cache-misses:u                                              
+             1,960      page-faults:u                                               
+
+       0.669180896 seconds time elapsed
+
+       0.273503000 seconds user
+       0.014972000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       764,458,479      cpu-cycles:u                                                
+            27,667      cache-misses:u                                              
+             2,014      page-faults:u                                               
+
+       0.717395912 seconds time elapsed
+
+       0.274822000 seconds user
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       764,636,585      cpu-cycles:u                                                
+            18,931      cache-misses:u                                              
+             1,958      page-faults:u                                               
+
+       0.696388097 seconds time elapsed
+
+       0.274547000 seconds user
+       0.013976000 seconds sys
+
+
+       0.013990000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+       823,161,040      cpu-cycles:u                                                
+            42,767      cache-misses:u                                              
+             2,879      page-faults:u                                               
+
+       0.316105183 seconds time elapsed
+
+       0.284638000 seconds user
+       0.016978000 seconds sys
+

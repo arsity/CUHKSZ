@@ -1,0 +1,23 @@
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    45,233,789,955      cpu-cycles:u                                                
+            38,298      cache-misses:u                                              
+             2,619      page-faults:u                                               
+
+      15.745031360 seconds time elapsed
+
+      15.673878000 seconds user
+       0.013967000 seconds sys
+
+
+
+ Performance counter stats for '/nfsmnt/120090645/project3/build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    45,284,457,102      cpu-cycles:u                                                
+           105,644      cache-misses:u                                              
+             3,608      page-faults:u                                               
+
+      15.745165795 seconds time elapsed
+
+      15.685927000 seconds user
+       0.009976000 seconds sys
