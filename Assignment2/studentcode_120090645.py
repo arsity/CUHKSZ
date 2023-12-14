@@ -10,9 +10,16 @@ BUFFER_SIZE = 0  # in bits
 RMAX_POINT = 0.0  # in seconds
 
 
-def student_entrypoint(Measured_Bandwidth, Previous_Throughput, Buffer_Occupancy,
-                       Available_Bitrates, Video_Time, Chunk, Rebuffering_Time,
-                       Preferred_Bitrate):
+def student_entrypoint(
+    Measured_Bandwidth,
+    Previous_Throughput,
+    Buffer_Occupancy,
+    Available_Bitrates,
+    Video_Time,
+    Chunk,
+    Rebuffering_Time,
+    Preferred_Bitrate,
+):
     """
     This function is called every time a new video chunk is requested.
 
@@ -23,18 +30,32 @@ def student_entrypoint(Measured_Bandwidth, Previous_Throughput, Buffer_Occupancy
     global INIT_FLAG, BITRATE
 
     if not INIT_FLAG:
-        init(Measured_Bandwidth, Previous_Throughput, Buffer_Occupancy,
-             Available_Bitrates, Video_Time, Chunk, Rebuffering_Time,
-             Preferred_Bitrate)
+        init(
+            Measured_Bandwidth,
+            Previous_Throughput,
+            Buffer_Occupancy,
+            Available_Bitrates,
+            Video_Time,
+            Chunk,
+            Rebuffering_Time,
+            Preferred_Bitrate,
+        )
         INIT_FLAG = True
 
     BITRATE = video_rate_adaptation_algo(BITRATE, Buffer_Occupancy["time"])
     return BITRATE
 
 
-def init(Measured_Bandwidth, Previous_Throughput, Buffer_Occupancy,
-         Available_Bitrates, Video_Time, Chunk, Rebuffering_Time,
-         Preferred_Bitrate):
+def init(
+    Measured_Bandwidth,
+    Previous_Throughput,
+    Buffer_Occupancy,
+    Available_Bitrates,
+    Video_Time,
+    Chunk,
+    Rebuffering_Time,
+    Preferred_Bitrate,
+):
     """
     This function is called at running student_entrypoint first time.
     """
@@ -91,9 +112,13 @@ def video_rate_adaptation_algo(rate_prev, buffer_now):
 
     # Select bitrate according to mapping func result
     if mapping_func(buffer_now) >= rate_plus:
-        rate_next = max([rate for rate in AVAILABLE_BITRATES if rate <= mapping_func(buffer_now)])
+        rate_next = max(
+            [rate for rate in AVAILABLE_BITRATES if rate <= mapping_func(buffer_now)]
+        )
     elif mapping_func(buffer_now) <= rate_minus:
-        rate_next = min([rate for rate in AVAILABLE_BITRATES if rate >= mapping_func(buffer_now)])
+        rate_next = min(
+            [rate for rate in AVAILABLE_BITRATES if rate >= mapping_func(buffer_now)]
+        )
     else:
         rate_next = rate_prev
 
@@ -118,4 +143,6 @@ def mapping_func(buffer_now):
     elif buffer_now >= RMAX_POINT:
         return R_MAX
     else:
-        return R_MIN + (R_MAX - R_MIN) * (buffer_now - RESERVOIR) / (RMAX_POINT - RESERVOIR)
+        return R_MIN + (R_MAX - R_MIN) * (buffer_now - RESERVOIR) / (
+            RMAX_POINT - RESERVOIR
+        )
